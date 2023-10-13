@@ -1,2 +1,2 @@
 # estudos
- Material de estudos para minha formação
+ Materiais de estudos, desenvolvidos na Faculdade.
